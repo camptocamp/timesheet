@@ -115,6 +115,7 @@ Contributors
 - Foram Shah <foram.shah@initos.com>
 - Phuc Kieu <phuckh@trobz.com>
 - Son Ho <sonhd@trobz.com>
+- Italo Lopes <italo.lopes@camptocamp.com>
 
 Other credits
 -------------

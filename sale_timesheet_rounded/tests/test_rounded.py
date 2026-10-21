@@ -40,7 +40,7 @@ class TestRounded(TestCommonSaleTimesheet):
         cls.product_expense = cls.env["product.product"].create(
             {
                 "name": "Service delivered, EXPENSE",
-                "expense_policy": "cost",
+                "reinvoice_policy": "cost",
                 "standard_price": 30,
                 "list_price": 90,
                 "type": "service",
